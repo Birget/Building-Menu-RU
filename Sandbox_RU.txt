@@ -1,0 +1,15 @@
+Sandbox_RU = {
+    Sandbox_BuildingMenu = "Меню строительства",
+    Sandbox_BuildingMenu_isThumpable = "Разрушаемость построек",
+    Sandbox_BuildingMenu_isThumpable_tooltip = "<RGB:1,0.8,0>Отключите <RGB:1,1,1><SPACE> чтобы сделать постройки, сделанные с помощью мода, неуязвимыми для зомби.",
+    Sandbox_BuildingMenu_bathroomAppliances = "Строительство сантехники",
+    Sandbox_BuildingMenu_bathroomAppliances_tooltip = "Включите, чтобы добавить возможность строить сантехнику. <LINE><LINE> <RGB:1,0,0> Требуется перезапуск игры!",
+    Sandbox_BuildingMenu_cookingAppliances = "Строительство кухонных приборов",
+    Sandbox_BuildingMenu_cookingAppliances_tooltip = "Включите, чтобы добавить возможность строить плиты. <LINE><LINE> <RGB:1,0,0> Требуется перезапуск игры!",
+    Sandbox_BuildingMenu_fridgeAppliances = "Строительство холодильников",
+    Sandbox_BuildingMenu_fridgeAppliances_tooltip = "Включите, чтобы добавить возможность строить холодильники. <LINE><LINE> <RGB:1,0,0> Требуется перезапуск игры!",
+    Sandbox_BuildingMenu_laundryAppliances = "Строительство стиральных и сушильных машин",
+    Sandbox_BuildingMenu_laundryAppliances_tooltip = "Включите, чтобы добавить возможность строить стиральные/сушильные машины. <LINE><LINE> <RGB:1,0,0> Требуется перезапуск игры!",
+    Sandbox_BuildingMenu_metalDrums = "Строительство металлических бочек",
+    Sandbox_BuildingMenu_metalDrums_tooltip = "Включите, чтобы добавить возможность строить металлические бочки. <LINE><LINE> <RGB:1,0,0> Требуется перезапуск игры!",
+}
